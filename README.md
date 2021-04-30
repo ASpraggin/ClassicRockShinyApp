@@ -6,5 +6,5 @@ To run:
 ```
 install.packages('shiny')
 library(shiny)
-shiny::runGitHub("ClassicRockShinyApp","ASpraggin")
+shiny::runGitHub("ClassicRockShinyApp","ASpraggin",ref="main)
 ```
